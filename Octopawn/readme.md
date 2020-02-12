@@ -1,0 +1,3 @@
+# Octopawn
+
+The purpose of this script is to play Octopawn, a variation of hexapawn with a 4 x 4 grid rather than a 3 x 3 grid. It is adapted from the Tic Tac Toe code from [Deep Learning and The Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go). You can refer to the original code at the [GitHub](https://github.com/maxpumperla/deep_learning_and_the_game_of_go). The bot uses minimax in order to determine its next move.
