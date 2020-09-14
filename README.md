@@ -21,6 +21,6 @@ Octopawn: Adaptation of Hexapawn code, to play on a 4x4 grid instead of a 3x3 gr
 
 PDF Extraction: contains scripts written to extract pdfs to text using Tika and PyPDF2.
 
-Space: This was a team project for UofT SCS 3547 - Intelligent Agents & Reinforcement Learning. Here, we made a game similar to flappy bird that is played using the NEAT algorithm.
+Space: This was a team project for UofT SCS 3547 - Intelligent Agents & Reinforcement Learning. Here, we made a game similar to flappy bird that is played using the NEAT algorithm. A demo can be seen [here](https://youtu.be/NKxisEPCE0s)
 
 Titanic Dataset: contains analysis of Titanic Dataset performed for an Assignment.
